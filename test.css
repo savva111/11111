@@ -1,0 +1,25 @@
+.block {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    color: #fff;
+    padding: 50px;
+    text-align: center;
+    background-color: #999;
+}
+
+.red {
+    background-color: #c00;
+}
+.blue {
+    background-color: #36c;
+}
+.green {
+    background-color: #0c3;
+}
+.orange {
+    background-color: #f90;
+}
+.purple {
+    background-color: #c0c;
+}
